@@ -5,7 +5,7 @@
   },
   "name": "Image Swapper",
   "version": "1.0",
-  "description": "Replace images on any website with your own hosted assets or CDN mirror. Great for visual mods, theming, or development overrides — with automatic fallback support.",
+  "description": "Replace images on any website with your own hosted assets or CDN mirror. Great for visual mods, theming, or development overrides.",
   "permissions": ["storage", "scripting", "activeTab"],
   "host_permissions": ["<all_urls>"],
   "action": {
