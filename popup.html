@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Image Swapper Config</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h2>Swap Settings</h2>
+  <form id="settingsForm">
+    <label>Enable for this site: <input type="checkbox" id="enabled"></label><br>
+    <label>Match Path:
+      <input type="text" id="matchPath" placeholder="e.g. https://example.com/foo/bar/">
+    </label><br>
+    <label>Replace With:
+      <input type="text" id="replacePath" placeholder="e.g. https://yourcdn.com/custom/path/">
+    </label><br>
+    <button type="submit">Save</button>
+  </form>
+</body>
+<script src="popup.js"></script>
+</html>

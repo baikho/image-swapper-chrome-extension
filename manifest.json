@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "icons": {
+    "128": "icon128.png"
+  },
+  "name": "Image Swapper",
+  "version": "1.0",
+  "description": "Replace images on any website with your own hosted assets or CDN mirror. Great for visual mods, theming, or development overrides — with automatic fallback support.",
+  "permissions": ["storage", "scripting", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Image Swapper Config"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
