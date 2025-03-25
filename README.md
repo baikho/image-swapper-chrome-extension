@@ -1,5 +1,11 @@
 # Image Swapper Chrome Extension
 
+![GitHub repo size](https://img.shields.io/github/repo-size/baikho/image-swapper-chrome-extension)
+![GitHub last commit](https://img.shields.io/github/last-commit/baikho/image-swapper-chrome-extension)
+![GitHub issues](https://img.shields.io/github/issues/baikho/image-swapper-chrome-extension)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/baikho/image-swapper-chrome-extension)
+![License](https://img.shields.io/github/license/baikho/image-swapper-chrome-extension)
+
 🖼️ Replace images on any website with your own CDN-hosted versions.
 
 ## Features
