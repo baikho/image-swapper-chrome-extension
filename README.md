@@ -1,6 +1,6 @@
 # Image Swapper Chrome Extension
 
-| ![Image Swapper Icon](icon128.png) | 🖼️ **Replace images on any website with your own CDN-hosted versions.** |
+| ![Image Swapper Icon](https://github.com/user-attachments/assets/5246828e-fa9d-4f9b-8cd7-442802b8292a) | 🖼️ **Replace images on any website with your own CDN-hosted versions.** |
 |------------------------------------|------------------------------------------------------------------------|
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/baikho/image-swapper-chrome-extension)
